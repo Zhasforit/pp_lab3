@@ -76,7 +76,7 @@ public class Launcher {
                 System.out.println(myCurrency.getName() + " " + myCurrency.getCountry() + " " + myCurrency.getCost());
             }
 
-            System.out.println("Вывод записей с имением Eur и фамилией France:");
+            System.out.println("Вывод валют с названием Eur и страной France:");
 
             list = currencyDAO.select("Eur", "France");
             for (Currency myCurrency : list) {
