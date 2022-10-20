@@ -1,4 +1,4 @@
-# pp_lab3
+# Java_Spring
 ![Screenshot](screenshot.png)
 
 ![Screenshot](screenshot1.png)
